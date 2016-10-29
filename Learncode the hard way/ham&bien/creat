@@ -1,0 +1,5 @@
+a = raw_input("Nhap ten duong dan file")
+b = raw_input("Nhap ten file")
+link = a + b
+file = open(link)
+
